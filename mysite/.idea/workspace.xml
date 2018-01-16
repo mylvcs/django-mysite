@@ -177,7 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello2app" />
+    <property name="last_opened_file_path" value="$USER_HOME$/cloudms" />
   </component>
   <component name="RunManager" selected="Python tests.Unittests in helloapp">
     <configuration default="false" name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
